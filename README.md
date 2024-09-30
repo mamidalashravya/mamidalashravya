@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 < About Me:
-freelancer 💻, I am specialize in frontend development with expertise in HTML, CSS, JavaScript, React.js, and more 🎨. I can creative ideas 💡 to the table, helping businesses go online with simple yet professional websites 🌐. Your backend knowledge, including Python Node.js, and database management with SQLite , further strengthens your ability to deliver full-stack solutions. Additionally, i am excel in UI/UX(Figma), design and have experience in AI/ML and Android app development, I can create in no-code platforms like Flutter-Flow and i can make website with no-code platform like Framer, Figma📱
+freelancer 💻, I am specialize in frontend development with expertise in HTML, CSS, JavaScript, React.js, and more 🎨. I can creative ideas 💡 to the table, helping businesses go online with simple yet professional websites 🌐. Your backend knowledge, including Python Node.js, and database management with SQLite , further strengthens your ability to deliver full-stack solutions. 📱
 
 
 ## 🌐 Socials:
