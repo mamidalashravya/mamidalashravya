@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 About Me:
-freelancer 💻, I am specialize in frontend development with expertise in HTML, CSS, JavaScript, React.js, and more 🎨. I can creative ideas 💡 to the table, helping businesses go online with simple yet professional websites 🌐. Your backend knowledge, including Python Node.js, and database management with SQLite , further strengthens your ability to deliver full-stack solutions. 📱
+I am specialize in frontend development with expertise in HTML, CSS, JavaScript, React.js, and more 🎨. I can creative ideas 💡 to the table, helping businesses go online with simple yet professional websites 🌐. Your backend knowledge, including Python Node.js, and database management with MySQl , further strengthens your ability to deliver full-stack solutions. 📱
 
 
 ## 🌐 Socials:
